@@ -1,0 +1,8 @@
+1.0.1
+    + Fixed important security hole
+
+1.0.0
+    + Cache System cleaned some code. Less query.
+
+0.0.1 - New release of the plugin!
+    + Made the plugin... What else am I suppose to say in the first changelog :p
